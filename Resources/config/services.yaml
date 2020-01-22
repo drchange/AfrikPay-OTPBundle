@@ -1,0 +1,10 @@
+parameters:
+    sms_api:
+        endpoint: " "
+        method: " "  # GET or POST
+        param_sender: "sender"
+        param_mobile: "mobile"
+        param_message: "message" 
+        other_static_json: " {'country' : 'CM', password : 'azerty'}" # Json Format {'country' : 'CM', password : 'azerty'}
+
+services:
