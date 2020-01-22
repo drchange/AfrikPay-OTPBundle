@@ -2,7 +2,7 @@
     "name": "afrikpay/otp-bundle",
     "type": "symfony-bundle",
     "description": "OTP SMS Bundle",
-    "license": "AfrikPay",
+    "license": "MIT",
     "authors": [
         {
             "name": "Dr Change",
